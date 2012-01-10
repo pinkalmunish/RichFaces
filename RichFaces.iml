@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="flex" name="Flex">
+      <configuration>
+        <option name="DO_BUILD" value="true" />
+        <option name="OUTPUT_TYPE" value="Application" />
+        <option name="USE_DEFAULT_SDK_CONFIG_FILE" value="true" />
+        <option name="USE_CUSTOM_CONFIG_FILE" value="false" />
+        <option name="CUSTOM_CONFIG_FILE" value="" />
+        <option name="USE_CUSTOM_CONFIG_FILE_FOR_TESTS" value="false" />
+        <option name="CUSTOM_CONFIG_FILE_FOR_TESTS" value="" />
+        <option name="APPLICATION_ENTRY_POINT" value="" />
+        <option name="MAIN_CLASS" value="RichFaces" />
+        <option name="OUTPUT_FILE_NAME" value="RichFaces.swf" />
+        <option name="USE_FACET_COMPILE_OUTPUT_PATH" value="false" />
+        <option name="FACET_COMPILE_OUTPUT_PATH" value="" />
+        <option name="FACET_COMPILE_OUTPUT_PATH_FOR_TESTS" value="" />
+        <option name="INCLUDE_RESOURCE_FILES_IN_SWC" value="false" />
+        <option name="TARGET_PLAYER_VERSION" value="" />
+        <option name="STATIC_LINK_RUNTIME_SHARED_LIBRARIES" value="true" />
+        <option name="USE_LOCALE_SETTINGS" value="false" />
+        <option name="LOCALE" value="en_US" />
+        <option name="ADDITIONAL_COMPILER_OPTIONS" value="" />
+        <option name="PATH_TO_SERVICES_CONFIG_XML" value="" />
+        <option name="CONTEXT_ROOT" value="" />
+        <option name="VERSION" value="3" />
+        <NAMESPACE_AND_MANIFEST_FILE_INFO_LIST />
+        <CONDITIONAL_COMPILATION_DEFINITION_LIST />
+        <CSS_FILES_LIST />
+      </configuration>
+    </facet>
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+      </configuration>
+    </facet>
+    <facet type="tapestry" name="Tapestry">
+      <configuration>
+        <setting name="filterName" value="richfaces" />
+        <setting name="applicationPackage" value="com.app" />
+        <setting name="version" value="5.1.0.5" />
+      </configuration>
+    </facet>
+    <facet type="WebServicesClient" name="WebServices Client">
+      <configuration ws.engine="Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0" />
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+      <facet type="google-app-engine" name="Google App Engine">
+        <configuration />
+      </facet>
+      <facet type="Struts2" name="Struts 2">
+        <configuration>
+          <fileset id="s2fileset" name="Default File Set " removed="false">
+            <file>file://$MODULE_DIR$/src/struts.xml</file>
+            <file>jar://$MODULE_DIR$/lib/struts2-core.jar!/struts-portlet-default.xml</file>
+            <file>jar://$MODULE_DIR$/lib/struts2-core.jar!/struts-default.xml</file>
+          </fileset>
+          <propertiesKeys disabled="false" />
+        </configuration>
+      </facet>
+      <facet type="jsf" name="JSF">
+        <configuration />
+      </facet>
+      <facet type="webservices" name="WebServices">
+        <configuration ws.engine="Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0" />
+      </facet>
+    </facet>
+    <facet type="gwt" name="GWT">
+      <configuration>
+        <setting name="gwtSdkUrl" value="file://$USER_HOME$/test_patch/trunk/trunk/model.web.framework/trunk/src/gwt" />
+        <setting name="webFacet" value="Web" />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset1" name="My Fileset" removed="false">
+          <file>file://$MODULE_DIR$/src/spring-config.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/META-INF/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="tapestry-5.1.0.5" level="project" />
+    <orderEntry type="library" name="Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0" level="project" />
+    <orderEntry type="library" name="AppEngine API" level="project" />
+    <orderEntry type="library" name="gwt-user" level="project" />
+    <orderEntry type="library" name="struts2-2.0.14" level="project" />
+    <orderEntry type="library" name="1.2.6" level="project" />
+    <orderEntry type="library" name="3.1.0" level="project" />
+    <orderEntry type="library" name="Glassfish / JAX-WS 2.X RI / Metro 1.X / JWSDP 2.0 (2)" level="project" />
+  </component>
+</module>
+
